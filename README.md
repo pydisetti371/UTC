@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+npx rtl-book serve roles-notes.js -> To open the rtl doc there we can see all docs
+https://altimetrik.udemy.com/course/react-testing-library-and-jest/learn/lecture/35701680#overview
